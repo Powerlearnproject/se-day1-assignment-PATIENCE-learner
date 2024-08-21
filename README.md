@@ -56,6 +56,7 @@ Upgrading the software with new features and enhancements
 Migrating to new platforms or technologies
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 Key Differences
 Waterfall Methodology
 Structure: Waterfall is a linear and sequential approach. Each phase must be completed before the next begins, including requirements gathering, design, implementation, testing, and maintenance.
@@ -97,6 +98,7 @@ Exploratory Projects: Projects focused on innovation or product development, whe
 Collaborative Teams: Agile thrives in environments where cross-functional teams can work closely and adapt quickly to changes, such as startups or tech companies.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 Roles and Responsibilities
 Software Developer
 A Software Developer is primarily responsible for designing, coding, and maintaining software applications. Key responsibilities include:
@@ -122,6 +124,7 @@ Stakeholder Communication: Acting as the primary point of contact for stakeholde
 Risk Management: Identifying potential risks and developing mitigation strategies to address them.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
 Integrated Development Environments (IDEs)
 IDEs are software applications that provide comprehensive facilities to programmers for software development. They typically include:
 Code Editor: A text editor designed for writing code with features like syntax highlighting and code completion.
