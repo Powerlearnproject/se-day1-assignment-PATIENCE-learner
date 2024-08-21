@@ -18,6 +18,7 @@ Rise of Object-Oriented Programming (OOP)
 The development and adoption of Object-Oriented Programming in the 1980s revolutionized software engineering. OOP introduced concepts such as encapsulation, inheritance, and polymorphism, allowing developers to create more modular, reusable, and maintainable code. This paradigm shift facilitated the management of increasingly complex software systems and became a cornerstone of modern software development practices.
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
 1. Planning and Requirements Analysis
 This initial phase involves gathering business requirements from stakeholders, evaluating project feasibility, and defining the scope and objectives. Key activities include:
 Defining the purpose, goals and desired outcomes of the software
@@ -56,6 +57,7 @@ Upgrading the software with new features and enhancements
 Migrating to new platforms or technologies
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 Key Differences
 Waterfall Methodology
 Structure: Waterfall is a linear and sequential approach. Each phase must be completed before the next begins, including requirements gathering, design, implementation, testing, and maintenance.
